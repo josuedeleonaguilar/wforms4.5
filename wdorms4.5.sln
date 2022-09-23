@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wdorms4.5", "wdorms4.5.csproj", "{3D519B44-DBBB-411C-92E2-70D46AD3009C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D519B44-DBBB-411C-92E2-70D46AD3009C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D519B44-DBBB-411C-92E2-70D46AD3009C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D519B44-DBBB-411C-92E2-70D46AD3009C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D519B44-DBBB-411C-92E2-70D46AD3009C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40733154-A31E-4EB1-ABDC-16FF1C2255AB}
+	EndGlobalSection
+EndGlobal
